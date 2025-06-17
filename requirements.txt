@@ -1,0 +1,6 @@
+Flask
+pandas
+networkx
+matplotlib
+gmplot
+python-dotenv

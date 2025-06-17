@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore generated Google Map HTML
+delhi_metro_googlemap.html
+
+# Ignore other generated files (optional)
+static/graph.png
+
+.vscode/
+
+api
