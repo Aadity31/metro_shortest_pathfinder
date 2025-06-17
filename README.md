@@ -3,8 +3,8 @@
 ## Overview
 The Metro Shortest Path Finder is a Python application that integrates various functionalities to help users find the shortest path between metro stations using Dijkstra's algorithm. The application provides a user-friendly interface for selecting stations and visualizes the metro network graphically.
 
-![Metro Graph](static/graphv.png)
-![Metro Graph](static/map.png)
+![Metro Graph](graphv.png)
+![Metro Graph](map.png)
 ## Project Structure
 The project consists of the following files:
 
