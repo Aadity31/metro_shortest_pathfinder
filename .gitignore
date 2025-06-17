@@ -2,8 +2,7 @@
 __pycache__/
 *.pyc
 
-# Ignore environment files
-.env
+
 
 # Ignore generated Google Map HTML
 delhi_metro_googlemap.html
